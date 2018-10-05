@@ -1,2 +1,2 @@
-# homeproject
-homeproject
+# Home Raspberry Configration guide
+
